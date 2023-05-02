@@ -1,5 +1,5 @@
 # Support
 
-This page can be used for telling your users how they can get ask for support in regards to your plugin. **[GitHub discussions](https://docs.github.com/discussions)** is one of the examples that should satisfy you.
+If you need any help, you can start a new discussion in the [discussions tab](https://github.com/n0eL1405/ASF-Notification-API/discussions).
 
-You can check **[ASF's Support](https://github.com/JustArchiNET/ArchiSteamFarm/blob/main/.github/SUPPORT.md)** for some inspiration.
+If you have a technical problem, please open a new [Issue](https://github.com/n0eL1405/ASF-Notification-API/issues) where you describe your problem.
